@@ -54,7 +54,8 @@ Figure -02 HALF Subtractor
 
 C:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-07 093207.png
 
-Developed by SWETHA R: RegisterNumber:2212223040221*/
+Developed by SWETHA R
+RegisterNumber:2212223040221*/
 
 **RTL Schematic**
 
